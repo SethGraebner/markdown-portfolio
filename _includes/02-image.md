@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Some image of Paris. Unclear why this should be underlined](https:///home/seth/Notes/HDW/images/Édouard_Baldus,_Saint_Germain_l'Auxerrois_-_NYPL_Digital_Collections.jpg)
